@@ -1,0 +1,10 @@
+opencv-python
+pygame
+pymongo
+python-dotenv
+numpy
+ultralytics
+Jetson.GPIO
+pyserial
+modbus_tk
+requests
